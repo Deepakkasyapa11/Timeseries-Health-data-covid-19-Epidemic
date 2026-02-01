@@ -1,4 +1,4 @@
-# VeloStat: High-Performance COVID-19 Analytical Pipeline
+# VeloStat: COVID-19 Analytical Pipeline
 <img width="644" height="347" alt="COVIED" src="https://github.com/user-attachments/assets/428a9e8e-18c0-4cbb-b911-485634a5d197" />
 
 A modular data engineering and analytics suite designed to process, normalize, and analyze global epidemiological time-series data. This project demonstrates advanced **NumPy-vectorized computation** and **Object-Oriented ETL** patterns, moving away from inefficient iterative processing.
